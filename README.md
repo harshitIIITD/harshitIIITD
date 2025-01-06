@@ -2,18 +2,18 @@
 # 👋 Hi, I'm Harshit!
 
 ### 🚀 About Me
-I'm a **B.Tech student in Mathematics and Computer Science** from IIIT Delhi, passionate about **data science**, **AI-driven healthcare solutions**, and **full-stack development**. I thrive on solving complex problems and crafting innovative solutions across domains like medical imaging, quantum computing, and NLP.
+I'm a highly motivated and results-oriented MLEngineer with 2 years of experience in Language models and data science. I'm passionate about transforming data and language into impactful solutions.
 
-- 🔭 Currently working on: A Skyscanner clone using Laravel and enhancing my GitHub profile.  
+- 🔭 Currently working on: LLM API development for travel, tourism related services.
 - 🌱 Learning: Japanese (N3 JLPT), LangChain, and advanced quantum computing concepts.  
 - 📫 How to reach me: **[nhk2harshit@gmail.com](mailto:nhk2harshit@gmail.com)**  
 
 ---
 
 ### 🛠️ Technical Skills
-**Programming:** Python, Java, SQL, Kotlin  
+**Programming:** Python, Java, SQL, Kotlin, TypeScript
 **Data Science:** PySpark, Databricks, PostgreSQL, GenAI APIs  
-**Web Development:** Laravel, Flask, Gradio  
+**Web Development:** Laravel, Flask, Gradio, 
 **Cloud:** Azure, GCP, Vultr  
 **Other Tools:** Figma, Power BI, Firebase, Unix/Linux  
 
@@ -40,9 +40,6 @@ I'm a **B.Tech student in Mathematics and Computer Science** from IIIT Delhi, pa
 
 - **Vultr Cloud Computing Hackathon Finalist**  
   Built a serverless inference system for disease prediction and qualified for the final round.
-
-- **National Cadet Corps C Rank Certificate**  
-  Successfully completed 3 NCC training courses.
 
 ---
 
