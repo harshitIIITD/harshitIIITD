@@ -11,7 +11,7 @@ I'm a highly motivated and results-oriented MLEngineer with 2 years of experienc
 ---
 
 ### 🛠️ Technical Skills
-**Programming:** Python, Java, SQL, Kotlin, TypeScript
+**Programming:** Python, Java, SQL, Kotlin, TypeScript 
 **Data Science:** PySpark, Databricks, PostgreSQL, GenAI APIs  
 **Web Development:** Laravel, Flask, Gradio, 
 **Cloud:** Azure, GCP, Vultr  
@@ -51,7 +51,6 @@ I'm a highly motivated and results-oriented MLEngineer with 2 years of experienc
 ---
 
 ### 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitIIITD&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitIIITD&layout=compact&theme=radical)
 
 ---
