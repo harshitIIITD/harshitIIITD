@@ -57,8 +57,7 @@ I'm a highly motivated and results-oriented MLEngineer with 2 years of experienc
 ---
 
 ### 🌐 Connect with Me
-- **Portfolio:** [https://harshitiiitd.github.io/my-portfolio/](https://harshitiiitd.github.io/my-portfolio/)  
-- **CodeChef:** [https://www.codechef.com/users/trickster_46](https://www.codechef.com/users/trickster_46)  
+- **Portfolio:** [my portfolio](https://www.anipleades.in/)  
 - **Certifications:** [DataCamp Certificate](https://www.datacamp.com/certificate/DSA0017483754770)  
 
 ---
