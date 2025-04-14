@@ -1,64 +1,79 @@
+# 👋 Hello, I'm Harshit!
 
-# 👋 Hi, I'm Harshit!
+## 🚀 About Me
+I am a dedicated Machine Learning Engineer with over 2 years of focused experience in language models and data science. My passion lies in leveraging data and cutting-edge technologies to create impactful, real-world solutions. Currently, I am working on developing LLM APIs tailored for the travel and tourism industry.
 
-### 🚀 About Me
-I'm a highly motivated and results-oriented MLEngineer with 2 years of experience in Language models and data science. I'm passionate about transforming data and language into impactful solutions.
-
-- 🔭 Currently working on: LLM API development for travel, tourism related services.
-- 🌱 Learning: Japanese (N3 JLPT), LangChain, and advanced quantum computing concepts.  
-- 📫 How to reach me: **[nhk2harshit@gmail.com](mailto:nhk2harshit@gmail.com)**  
-
----
-
-### 🛠️ Technical Skills
-**Programming:** Python, Java, SQL, Kotlin, TypeScript 
-**Data Science:** PySpark, Databricks, PostgreSQL, GenAI APIs  
-**Web Development:** Laravel, Flask, Gradio, 
-**Cloud:** Azure, GCP, Vultr  
-**Other Tools:** Figma, Power BI, Firebase, Unix/Linux  
+- 🔭 **Current Focus:** LLM API development for travel and tourism services.
+- 🌱 **Learning Goals:** Japanese (N3 JLPT), LangChain, and advanced quantum computing concepts.
+- 📫 **Reach Me At:** [nhk2harshit@gmail.com](mailto:nhk2harshit@gmail.com)
 
 ---
 
-### 💡 Featured Projects
-- **[Personalized Preventive Health Platform](https://github.com/harshitIIITD/health-platform)**  
-  A Laravel-based system leveraging cloud computing to predict diseases based on user data, location, and MRI analysis.
+## 🛠️ Technical Skills
+### Programming Languages
+- Python, Java, SQL, Kotlin, TypeScript
 
-- **[Quantum Music Composer](https://github.com/harshitIIITD/quantum-music-composer)**  
-  Leveraged quantum computing to create a random walk-based MIDI file composer using IBM's Quantum Computer.
+### Data Science & Machine Learning
+- PySpark, Databricks, PostgreSQL, Generative AI APIs  
 
-- **[Analyzing International Debt Statistics](https://github.com/harshitIIITD/Analyzing-International-Debt-Statistics)**  
-  SQL-based insights into global debt distributions for effective reporting and analysis.
+### Web Development
+- Laravel, Flask, Gradio
 
-- **[Snake and Ladder Game](https://github.com/harshitIIITD/Snake-and-ladder)**  
-  A JavaFX-powered game implementing robust game state management and win scenarios.
+### Cloud & DevOps
+- Azure, GCP, Vultr
+
+### Tools & Platforms
+- Figma, Power BI, Firebase, Unix/Linux  
 
 ---
 
-### 🏆 Achievements
+## 💡 Featured Projects
+### [Personalized Preventive Health Platform](https://github.com/harshitIIITD/health-platform)
+A Laravel-based system utilizing cloud computing to predict diseases based on user data, geographic location, and MRI analysis.
+
+### [Quantum Music Composer](https://github.com/harshitIIITD/quantum-music-composer)
+An innovative project leveraging IBM's Quantum Computing platform to compose MIDI files using a random walk algorithm.
+
+### [Analyzing International Debt Statistics](https://github.com/harshitIIITD/Analyzing-International-Debt-Statistics)
+A comprehensive SQL-based analysis providing insights into global debt distributions for effective reporting.
+
+### [Snake and Ladder Game](https://github.com/harshitIIITD/Snake-and-ladder)
+A robust JavaFX-powered game featuring efficient game state management and win scenario implementations.
+
+---
+
+## 🏆 Achievements
 - **DataCamp Associate Data Scientist Certification**  
-  Mastered data modeling, statistical experimentation, and passed a rigorous 3-stage evaluation.  
+  Demonstrated expertise in data modeling and statistical experimentation, achieving certification through a rigorous evaluation process.
 
 - **Vultr Cloud Computing Hackathon Finalist**  
-  Built a serverless inference system for disease prediction and qualified for the final round.
+  Developed a serverless inference system for disease prediction, securing a finalist position in the competition.
 
 ---
 
-
-### 🌟 Interests and Hobbies
-- 🎮 Gaming: Beta tester for Hoyoverse's Honkai Impact 3rd.  
-- 🌍 Travel: Explored 24 Indian states to immerse in diverse cultures.  
-- ✍️ Blogging: Write on topics like travel, technology, and ethics.
-
----
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitIIITD&layout=compact&theme=radical)
+## 🌟 Interests and Hobbies
+- 🎮 **Gaming:** Beta tester for Hoyoverse's Honkai Impact 3rd.
+- 🌍 **Travel:** Explored 24 Indian states, experiencing diverse cultures firsthand.
+- ✍️ **Writing:** Passionate about blogging on topics including technology, travel, and ethics.
 
 ---
 
-### 🌐 Connect with Me
-- **Portfolio:** [my portfolio](https://www.anipleades.in/)  
-- **Certifications:** [DataCamp Certificate](https://www.datacamp.com/certificate/DSA0017483754770)  
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitIIITD&layout=compact&theme=radical)
+
+### Additional GitHub Insights
+
+- **Contributions Overview:**  
+![Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitIIITD&theme=radical)
+
+- **Repository Stats:**  
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitIIITD&theme=radical)  
+![Most Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitIIITD&theme=radical)
 
 ---
 
+## 🌐 Connect with Me
+- **Portfolio:** [Visit My Portfolio](https://www.anipleades.in/)  
+- **Certifications:** [DataCamp Certificate](https://www.datacamp.com/certificate/DSA0017483754770)
+
+---
